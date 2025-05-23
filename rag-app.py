@@ -7,6 +7,7 @@ from sentence_transformers import SentenceTransformer
 from transformers import pipeline
 from docx import Document
 from sklearn.feature_extraction.text import TfidfVectorizer
+from docx import Document
 
 # ------------------- Utilities -------------------
 
