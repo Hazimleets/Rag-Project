@@ -1,0 +1,7 @@
+streamlit
+transformers
+sentence-transformers
+faiss-cpu
+langchain
+torch
+PyMuPDF               # for PDF reading
